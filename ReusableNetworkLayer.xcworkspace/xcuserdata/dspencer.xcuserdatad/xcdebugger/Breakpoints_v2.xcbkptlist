@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReusableNetworkLayer/ReusableNetworking/Services/NetworRouter.swift"
+            timestampString = "557769842.350098"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "request(route:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReusableNetworkLayer.NetworkRouter.request(route: A, completion: (SwiftyJSON.JSON, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ReusableNetworkLayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dspencer/Documents/development/IOS/ReusableNetworkLayer/ReusableNetworkLayer/ReusableNetworking/Services/NetworRouter.swift"
+                  timestampString = "557727961.603159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in ReusableNetworkLayer.NetworkRouter.request(route: A, completion: (SwiftyJSON.JSON, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ReusableNetworkLayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dspencer/Documents/development/IOS/ReusableNetworkLayer/ReusableNetworkLayer/ReusableNetworking/Services/NetworRouter.swift"
+                  timestampString = "557727961.6058379"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReusableNetworkLayer/ReusableNetworking/Services/NetworRouter.swift"
+            timestampString = "557769842.350176"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "request(route:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReusableNetworkLayer/ViewController.swift"
+            timestampString = "557776551.627978"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReusableNetworkLayer.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ReusableNetworkLayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dspencer/Documents/development/IOS/ReusableNetworkLayer/ReusableNetworkLayer/ViewController.swift"
+                  timestampString = "557774841.66102"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;ReusableNetworkLayer.Photo&gt;) -&gt; () in ReusableNetworkLayer.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ReusableNetworkLayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dspencer/Documents/development/IOS/ReusableNetworkLayer/ReusableNetworkLayer/ViewController.swift"
+                  timestampString = "557774841.6629699"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
